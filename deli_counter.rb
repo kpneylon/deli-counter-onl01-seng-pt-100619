@@ -14,5 +14,5 @@ end
 
 def take_a_number(array, customer)
   array.push(customer)
-  
+  puts ""
 end  

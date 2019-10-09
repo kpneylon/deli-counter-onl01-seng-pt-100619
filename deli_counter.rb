@@ -1,1 +1,3 @@
 def line(array)
+  
+end  

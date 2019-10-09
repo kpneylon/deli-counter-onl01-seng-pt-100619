@@ -13,5 +13,6 @@ def line(array) # this was the one I figured out
 end
 
 def take_a_number(array, customer)
-  array.push
+  array.push(customer)
+  
 end  
